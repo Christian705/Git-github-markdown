@@ -10,3 +10,4 @@ __mkdir__ is the abreviation for make directory, to use it correctly we only nee
 
 `rmdir [Directory Name]`
 __rmdir__ is the abreviation for remove directory, to use it correctly we only need to type this followed by the directory name.
+
